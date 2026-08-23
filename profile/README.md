@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="./assets/academy-banner.png"
+       alt="YaskCode Academy — Aprende, Practica, Construye y Comparte"
+       width="100%">
+</p>
+
+
 # YaskCode Academy
 
 ### Aprende · Practica · Construye · Comparte
@@ -22,3 +29,11 @@ El aprendizaje se desarrolla mediante experiencias progresivas en las que los co
 
 > 🌎 **Spanish-first · English-accessible**
 > La documentación educativa principal se desarrolla en español, con una capa de acceso internacional en inglés que crecerá progresivamente.
+
+<br>
+
+<p align="center">
+  <img src="./assets/academy-footer.png"
+       alt="YaskCode Academy — Open-source education for Software Engineering and Artificial Intelligence"
+       width="100%">
+</p>
