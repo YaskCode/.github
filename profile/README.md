@@ -7,8 +7,6 @@
 
 # YaskCode Academy
 
-### Aprende · Practica · Construye · Comparte
-
 **YaskCode Academy** es una iniciativa educativa open source para la enseñanza de Ingeniería de Software, Inteligencia Artificial y prácticas modernas de desarrollo de software, dirigida especialmente a estudiantes, docentes y comunidades de habla hispana.
 
 Nuestro modelo integra **aprendizaje activo, proyectos auténticos, workflows profesionales, automatización, estándares y evidencia del proceso de aprendizaje**, utilizando GitHub como parte del entorno educativo.
