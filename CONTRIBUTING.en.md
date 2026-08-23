@@ -14,7 +14,7 @@ You can improve educational resources and learning paths; practical projects and
 
 ## Basic workflow
 
-1. Read [GOVERNANCE.md](GOVERNANCE.md), [CONTRIBUTING.md](CONTRIBUTING.md), [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md) and [LICENSING.md](LICENSING.md).
+1. Read [GOVERNANCE.en.md](GOVERNANCE.en.md), this document, [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), [SECURITY.md](SECURITY.md) and [LICENSING.md](LICENSING.md). The Spanish documents remain authoritative where an interpretation differs.
 2. Review repository-specific guidance and discuss the work in an Issue.
 3. Fork or create a descriptive branch as directed by the repository.
 4. Submit a focused Pull Request, linking the Issue when available.
