@@ -6,9 +6,9 @@ Esta política cubre repositorios, automatizaciones, documentación y recursos b
 
 ## Qué reportar
 
-Reporta de forma responsable vulnerabilidades o exposiciones relacionadas con código, configuraciones, workflows, secretos, credenciales, dependencias, datos personales, permisos incorrectos, contenido que facilite un daño técnico significativo o fallos que afecten la seguridad de participantes.
+Reporta de forma responsable vulnerabilidades o exposiciones relacionadas con código, configuraciones, workflows, secretos, credenciales, dependencias, datos personales, permisos incorrectos, contenido que facilite un daño técnico significativo o fallos que afecten la seguridad de participantes. Para un reporte sensible, escribe a [yaskellycode@gmail.com](mailto:yaskellycode@gmail.com).
 
-No abras un Issue público para vulnerabilidades sensibles, secretos, datos personales o detalles explotables. Antes de publicar esta política como canal operativo definitivo, debe definirse y publicarse un canal privado de reporte. Si un repositorio ya tiene un canal seguro indicado, utiliza ese canal. Si no existe, limita cualquier comunicación pública a una descripción no sensible y espera instrucciones de quienes mantienen el repositorio.
+No abras un Issue público para vulnerabilidades sensibles, secretos, datos personales o detalles explotables. Usa el correo de reporte anterior y limita cualquier comunicación pública a una descripción no sensible. Si un repositorio publica en el futuro un canal de reporte más específico, sigue ese canal.
 
 ## Qué incluir en un reporte seguro
 
