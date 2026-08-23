@@ -25,7 +25,7 @@ Los maintainers y el Project Lead pueden pedir correcciones, emitir advertencias
 
 ## Reportes
 
-No uses Issues públicos para reportar una situación sensible. Antes de publicar esta política como canal operativo definitivo, YaskCode Academy debe definir y publicar un canal oficial de reporte que proteja la confidencialidad y permita una respuesta responsable. Mientras no exista, quienes administren un espacio concreto deberán indicar allí el canal seguro aplicable o moderar de inmediato riesgos visibles.
+No uses Issues públicos para reportar una situación sensible. Para reportar acoso, discriminación, represalias u otra conducta cubierta por este Código, escribe a [yaskellycode@gmail.com](mailto:yaskellycode@gmail.com). El reporte debe incluir solo la información necesaria para comprender el caso; no publiques datos personales ni información sensible en canales públicos.
 
 Las represalias contra quien reporte de buena fe o colabore en una revisión no son aceptables. La información se compartirá solo con quienes necesiten conocerla para gestionar el caso, salvo obligación legal o riesgo de seguridad.
 
